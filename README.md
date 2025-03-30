@@ -40,6 +40,9 @@ Clone Repository
 ```bash
   git clone https://github.com/cryptowithshashi/EVM-WALLET-GENERATOR.git
 ```
+```bash
+  cd EVM-WALLET-GENERATOR
+```
 
 Install Packages
 ```bash
@@ -49,6 +52,11 @@ Execute the code
 ```bash
   node index.js
 ```
+Use this command to check your wallet's info
+```bash
+  nano wallets_output.txt
+```
+
 - Enter number of wallets when prompted
 - Find saved wallets in wallets_output.txt
 - DELETE wallets_output.txt from VPS after download
