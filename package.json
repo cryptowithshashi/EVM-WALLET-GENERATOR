@@ -1,0 +1,10 @@
+{
+    "type": "module", 
+    "dependencies": {
+      "banner": "^0.0.5", 
+      "chalk": "^5.4.1",
+      "ethers": "^6.13.5",
+      "moment": "^2.30.1",
+      "readline-sync": "^1.4.10"
+    }
+  }
